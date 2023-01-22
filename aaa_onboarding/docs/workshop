@@ -1,0 +1,40 @@
+workshop
+========
+
+
+stage 1 burner setup:
+
+ - intro
+   - what is dc?
+   - how does it help me?
+   - is it safe?
+   - what is this burner setup????
+
+ - following howto
+ 
+ - verifying things work
+
+
+break
+
+
+stage 2 onboarding:
+
+ - intro
+   - what is dc?
+   - how does it help me?
+   - is it safe?
+ - scan burner
+ - scan group
+ - play
+
+
+notes:
+ - multi device icky? how to handle?
+
+
+ resources:
+
+  - howto
+  - slideshow with images
+  - vps' + domains for try-out phase

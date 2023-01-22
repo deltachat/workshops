@@ -1,0 +1,36 @@
+Workshop: Setting up Burner Accounts with Delta Chat
+          Créer des comptes temporaires avec Delta Chat
+
+Delta Chat is the only decentralized messenger capable of self-destructing messages. It is built on top of email.
+Messages are auto-encrypted, if possible, using Autocrypt. There is no signup anywhere, you can just use your own email address.
+However, we are working on a setup for anonymous burner accounts. These accounts are zero-setup and disappear automatically after a set time.
+
+This all makes it very useful for activists or privacy-interested folks who want to get their family to use a decentralized messenger. It's easy to use:
+
+1. Everyone in the group scans a QR code and gets a temporary account - no password, no bureaucracy.
+2. Scanning a second QR gets everyone onboarded in a verified group, which has verified end-to-end encryption.
+3. Turning on self-destructing messages protects the messages from device theft or seizure.
+
+In the first part of the workshop (1-2 hours) we guide you through setting up a server which you can use to create anonymous burner accounts for groups - and how to setup end-to-end encrypted groups.
+(This part works best if you have some familiarity with using the linux command line.)
+
+During the second part (30-60 minutes) we invite everyone who wants to try it out!
+(This requires only to install the app.)
+
+The workshop will be in english and french.
+
+
+Delta Chat est la seule messagerie instantanée capable d'auto-détruire les messages. Elle est construite sur le protocole email. Les messages sont chiffrés par défaut si possible, en utilisant Autocrypt. Il n'y a pas besoin d'inscription, il suffit d'utiliser son adresse email.
+Cependant, nous travaillons à une version avec des comptes anonymes temporaires. Ces comptes sont sans configuration et disparraissent automatiquement au bout d'un temps fixé.
+
+Cela la rend particulièrement utile pour les militant-es et les personnes intéressées par la vie privée, qui veulent amener leur famille à utiliser une messagerie décentralisée. Elle est facile à utiliser :
+
+1. Tout le monde dans le groupe scanne un QR code pour recevoir un compte temporaire - pas de mot de passe, pas de bureaucratie.
+2. Scanner ce QR code permet à tout le monde de rejoindre un groupe vérifié, utilisant du chiffrement de bout-en-bout.
+3. Activer les message auto-destructeurs protège les messages du vol de l'appareil ou des perquisitions.
+
+Dans la première partie de l'atelier (1 à 2 heures), on vous guidera pour mettre en place un serveur capable de créer ces comptes temporaires pour les groupes - et on vous montrera comment créer des groupes avec du chiffrement de bout-en-bout.
+
+Pendant la seconde partie (30 à 60 minutes) on invitera tout le monde à tester l'outil! (Cela nécessite simplement l'installation de l'application).
+
+L'atelier sera en anglais et français.
