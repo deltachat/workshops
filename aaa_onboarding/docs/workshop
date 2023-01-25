@@ -2,39 +2,67 @@ workshop
 ========
 
 
-stage 1 burner setup:
+## Anonymous account server setup
 
- - intro
-   - what is dc?
-   - how does it help me?
-   - is it safe?
-   - what is this burner setup????
-
- - following howto
+### Intro
+ - What is Delta Chat?
+      Delta Chat is a messaging app that works over email. You can use any existing email address, or even run a mailserver to host yourself and others.
+      This means that the infrastructure is federated, there is no company owning all the data.
+ - How does it help me?
+ - Is it safe?
+ - What is this anonymous account setup?
+      It is a combination of two things:
+       - mailcow - an all-in-one mail hosting solution
+       - mailadm - this is our tool that generates accounts, creates them in mailcow, and removes them after they expire.
+ - Questions?
  
- - verifying things work
+### Setting up the server
+ - Following howto
+
+### First steps
+ - Create an account in mailcow
+ - Run setupbot, join admin group
+ - Generate a token
+ - Create a verified group
+ - Join a Delta Chat support group
+
+ ### Questions?
 
 
 break
 
 
-stage 2 onboarding:
+## Onboarding
 
- - intro
-   - what is dc?
-   - how does it help me?
-   - is it safe?
- - scan burner
- - scan group
- - play
+### Intro
+ - What is Delta Chat?
+      Delta Chat is a messaging app that works over email. You can use any existing email address, or even run a mailserver to host yourself and others.
+      This means that the infrastructure is federated, there is no company owning all the data.
+ - How does it help me?
+ - Is it safe?
+ - What is this anonymous account setup?
+      It is a combination of two things:
+       - mailcow - an all-in-one mail hosting solution
+       - mailadm - this is our tool that generates accounts, creates them in mailcow, and removes them after they expire.
+ - Questions?
+
+### Let's get it working
+ - Install the app
+ - Scan burner QR
+ - Scan group QR
+ - Verify each other
+
+### Questions?
+
 
 
 notes:
  - multi device icky? how to handle?
 
 
- resources:
+resources:
+ - howto
+ - slideshow with images
+ - vps' + domains for try-out phase
 
-  - howto
-  - slideshow with images
-  - vps' + domains for try-out phase
+  
